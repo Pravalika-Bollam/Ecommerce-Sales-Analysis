@@ -1,6 +1,6 @@
 # E-Commerce Sales Data Analysis
 
-![Sample Visualization - Amount spent by order](visualizations/total_spending_and_amount_per_order.png)
+![Sample Visualization - Amount spent by order](visualizations/amazon_sales_distribution_weekday_and_top_skus.png)
 
 
 ## Project Overview
